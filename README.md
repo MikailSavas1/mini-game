@@ -1,7 +1,5 @@
 # mini-game
-A boring mini-game, that is coded well-structured and based on JavaScript.
-
-It can (also) be used as a solid structure for developing further, own mini-games. 
+A boring mini-game; based on JavaScript.
 
 The game reminds of playing ping-pong on your own.
 
